@@ -1,28 +1,25 @@
 header {
    background-color: dodgerblue;
    padding-top: 30px;
+   margin-bottom: -20px;
+   
    color: white;  
-   text-align:center; 
+   text-align: center;
+   
    font-family: "Times New Roman", sans-serif;
    font-size: 14px;
    
 }
 
-.dados-pessoais{
-    margin-bottom: 50px;
-    
-}
-
-
-
 .imagem-jefferson {    
-    float: right;
-    margin-right: 50px;
-    margin-bottom: 15px;
+    float: right;    
     width: 200px;
     height: 200px;
     box-shadow: 1px 1px 10px 1px;
-    margin-bottom: 50px;
+   display: flex;
+   border-radius: 100px;
+   margin-right: 20px;
+   
     
 }
 
@@ -32,11 +29,16 @@ header {
 body {
     font-family: "Times New Roman", sans-serif;
     font-size: 14px;
-    text-indent: 10px;
-    width: 960px;
+    text-indent: 2px;
+    text-align: justify;
+    width: 50%;
     margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     border: 1px solid #7F7F7F;
      box-shadow: 1px 1px 20px 2px;  
+
+     
 
 }
 
