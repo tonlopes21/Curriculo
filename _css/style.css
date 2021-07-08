@@ -1,0 +1,77 @@
+header {
+   background-color: dodgerblue;
+   padding-top: 30px;
+   color: white;  
+   text-align:center; 
+   font-family: "Times New Roman", sans-serif;
+   font-size: 14px;
+   
+}
+
+.dados-pessoais{
+    margin-bottom: 50px;
+    
+}
+
+
+
+.imagem-jefferson {    
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 15px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px 1px 10px 1px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+
+
+body {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 14px;
+    text-indent: 10px;
+    width: 960px;
+    margin: auto;
+    border: 1px solid #7F7F7F;
+     box-shadow: 1px 1px 20px 2px;  
+
+}
+
+.resumo {
+    text-align: justify;
+    text-indent: 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+h2 {
+    color: #7F7F7F;
+    background-color: #f0e9e9 ;
+    text-indent: justify;    
+}
+
+
+
+ ul, h3 {
+    padding-left: 10px;
+    margin-left: 0;
+    list-style-position: inside;
+    
+ }
+
+li {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+a:hover {
+    background: #f0e9e9;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
